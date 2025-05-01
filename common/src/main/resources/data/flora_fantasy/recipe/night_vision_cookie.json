@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "flora_fantasy:lumin_berries"
+    },
+    "A": {
+      "item": "minecraft:cookie"
+    }
+  },
+  "pattern": [
+    "PAP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "flora_fantasy:night_vision_cookie"
+  }
+}

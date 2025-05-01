@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "flora_fantasy:block/salt_crystal_lamp"
+  }
+}

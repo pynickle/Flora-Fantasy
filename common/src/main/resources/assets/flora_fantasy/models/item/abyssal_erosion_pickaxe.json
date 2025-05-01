@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "flora_fantasy:item/abyssal_erosion_pickaxe"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "flora_fantasy:ironbane_fern",
+  "step": "underground_decoration"
+}

@@ -1,0 +1,33 @@
+{
+  "itemGroup.flora_fantasy.items": "Items",
+  "itemGroup.flora_fantasy.blocks": "Blocks",
+
+  "item.flora_fantasy.lumin_berries": "Lumin Berries",
+  "item.flora_fantasy.nethermend_sludge_bottle": "Nethermend Sludge Bottle",
+  "item.flora_fantasy.night_vision_cookie": "Night Vision Cookie",
+  "item.flora_fantasy.ironbane_frond": "Ironbane Frond",
+  "item.flora_fantasy.abyssal_erosion_pickaxe": "Abyssal Erosion Pickaxe",
+  "item.flora_fantasy.saltspud": "Saltspud",
+  "item.flora_fantasy.blaze_iron_knife": "Blaze Iron Knife",
+  "item.flora_fantasy.salt_crystal": "Salt Crystal",
+
+  "block.flora_fantasy.ironbane_fern": "Ironbane Fern",
+  "block.flora_fantasy.ironbane_frond_fern": "Ironbane Frond Fern",
+  "block.flora_fantasy.lumin_berry_bush": "Lumin Berry Bush",
+  "block.flora_fantasy.saltspud": "Saltspud",
+  "block.flora_fantasy.salt_crystal_lamp": "Salt Crystal Lamp",
+
+  "item.minecraft.potion.effect.ironfern": "Potion of Ironfern",
+  "item.minecraft.potion.effect.long_ironfern": "Potion of Ironfern",
+  "item.minecraft.potion.effect.strong_ironfern": "Potion of Ironfern",
+
+  "item.minecraft.splash_potion.effect.ironfern": "Splash Potion of Ironfern",
+  "item.minecraft.splash_potion.effect.long_ironfern": "Splash Potion of Ironfern",
+  "item.minecraft.splash_potion.effect.strong_ironfern": "Splash Potion of Ironfern",
+
+  "item.minecraft.lingering_potion.effect.ironfern": "Lingering Potion of Ironfern",
+  "item.minecraft.lingering_potion.effect.long_ironfern": "Lingering Potion of Ironfern",
+  "item.minecraft.lingering_potion.effect.strong_ironfern": "Lingering Potion of Ironfern",
+
+  "tooltip.flora_fantasy.abyssal_erosion_pickaxe": "Erosion Energy: %s"
+}

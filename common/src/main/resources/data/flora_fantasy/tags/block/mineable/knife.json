@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:cobweb",
+    "#minecraft:wool_carpets",
+    "#minecraft:wool",
+    "#minecraft:sword_efficient",
+    "#minecraft:sword_instantly_mines",
+    "#c:mineable/knife"
+  ]
+}

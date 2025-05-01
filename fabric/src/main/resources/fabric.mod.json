@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "flora_fantasy",
+  "version": "${version}",
+  "name": "Flora Fantasy",
+  "description": "Look for more fantasy plants in the world!",
+  "authors": [
+    "ENC_Euphony"
+  ],
+  "contact": {
+    "homepage": ""
+  },
+  "license": "MIT",
+  "icon": "assets/flora_fantasy/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.euphony.flora_fantasy.fabric.FloraFantasyFabric"
+    ],
+    "client": [
+      "com.euphony.flora_fantasy.fabric.client.FloraFantasyFabricClient"
+    ]
+  },
+  "mixins": [
+    "flora_fantasy.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "architectury": ">=13.0.8",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

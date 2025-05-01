@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "flora_fantasy:block/lumin_berry_bush_stage0"
+    },
+    "age=1": {
+      "model": "flora_fantasy:block/lumin_berry_bush_stage1"
+    }
+  }
+}

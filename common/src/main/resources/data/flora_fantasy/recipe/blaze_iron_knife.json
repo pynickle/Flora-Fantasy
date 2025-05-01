@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "tag": "c:ingots/iron"
+    },
+    "M": {
+      "item": "minecraft:blaze_powder"
+    },
+    "A": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "M",
+    "P",
+    "A"
+  ],
+  "result": {
+    "count": 1,
+    "id": "flora_fantasy:blaze_iron_knife"
+  }
+}

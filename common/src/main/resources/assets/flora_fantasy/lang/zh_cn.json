@@ -1,0 +1,33 @@
+{
+  "itemGroup.flora_fantasy.items": "物品",
+  "itemGroup.flora_fantasy.blocks": "方块",
+
+  "item.flora_fantasy.lumin_berries": "荧光莓",
+  "item.flora_fantasy.nethermend_sludge_bottle": "凝岩乳瓶",
+  "item.flora_fantasy.night_vision_cookie": "夜视曲奇",
+  "item.flora_fantasy.ironbane_frond": "铁蚀叶",
+  "item.flora_fantasy.abyssal_erosion_pickaxe": "蚀界镐",
+  "item.flora_fantasy.saltspud": "盐晶薯",
+  "item.flora_fantasy.blaze_iron_knife": "烈焰铁小刀",
+  "item.flora_fantasy.salt_crystal": "盐晶",
+
+  "block.flora_fantasy.ironbane_fern": "噬铁蕨",
+  "block.flora_fantasy.ironbane_frond_fern": "噬铁叶蕨",
+  "block.flora_fantasy.lumin_berry_bush": "荧光莓",
+  "block.flora_fantasy.saltspud": "盐晶薯",
+  "block.flora_fantasy.salt_crystal_lamp": "盐晶灯",
+
+  "item.minecraft.potion.effect.ironfern": "铁蕨药水",
+  "item.minecraft.potion.effect.long_ironfern": "铁蕨药水",
+  "item.minecraft.potion.effect.strong_ironfern": "铁蕨药水",
+
+  "item.minecraft.splash_potion.effect.ironfern": "喷溅型铁蕨药水",
+  "item.minecraft.splash_potion.effect.long_ironfern": "喷溅型铁蕨药水",
+  "item.minecraft.splash_potion.effect.strong_ironfern": "喷溅型铁蕨药水",
+
+  "item.minecraft.lingering_potion.effect.ironfern": "滞留型铁蕨药水",
+  "item.minecraft.lingering_potion.effect.long_ironfern": "滞留型铁蕨药水",
+  "item.minecraft.lingering_potion.effect.strong_ironfern": "滞留型铁蕨药水",
+
+  "tooltip.flora_fantasy.abyssal_erosion_pickaxe": "侵蚀能量：%s"
+}

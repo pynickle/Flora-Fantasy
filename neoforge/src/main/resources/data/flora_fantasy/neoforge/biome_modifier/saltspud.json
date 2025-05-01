@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:desert",
+  "features": "flora_fantasy:saltspud",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "flora_fantasy:lumin_berries"
+    },
+    "S": {
+      "item": "minecraft:glass_bottle"
+    },
+    "A": {
+      "item": "minecraft:magma_cream"
+    },
+    "O": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "pattern": [
+    "POP",
+    "PAP",
+    "PSP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "flora_fantasy:nethermend_sludge_bottle"
+  }
+}

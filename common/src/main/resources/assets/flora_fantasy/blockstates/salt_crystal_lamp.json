@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "flora_fantasy:block/salt_crystal_lamp"
+    },
+    "lit=true": {
+      "model": "flora_fantasy:block/salt_crystal_lamp_on"
+    }
+  }
+}

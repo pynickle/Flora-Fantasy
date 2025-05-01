@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "flora_fantasy:blaze_iron_knife"
+    },
+    {
+      "item": "flora_fantasy:saltspud"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "flora_fantasy:salt_crystal",
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "flora_fantasy:growth",
+  "config": {
+    "growth": {
+      "state": {
+        "Name": "flora_fantasy:ironbane_fern"
+      },
+      "target": {
+        "predicate_type": "minecraft:block_match",
+        "block": "minecraft:air"
+      }
+    },
+    "target": {
+      "state": {
+        "Name": "minecraft:deepslate_iron_ore"
+      },
+      "target": {
+        "predicate_type": "minecraft:tag_match",
+        "tag": "minecraft:deepslate_ore_replaceables"
+      }
+    },
+    "base": {
+      "state": {
+        "Name": "minecraft:raw_iron_block"
+      },
+      "target": {
+        "predicate_type": "minecraft:tag_match",
+        "tag": "minecraft:base_stone_overworld"
+      }
+    }
+  }
+}

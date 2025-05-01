@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "flora_fantasy:ironbane_frond"
+    },
+    "M": {
+      "item": "minecraft:dragon_breath"
+    },
+    "A": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "PMP",
+    " A ",
+    " A "
+  ],
+  "result": {
+    "count": 1,
+    "id": "flora_fantasy:abyssal_erosion_pickaxe"
+  }
+}

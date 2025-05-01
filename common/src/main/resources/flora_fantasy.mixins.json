@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.euphony.flora_fantasy.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+  ],
+  "mixins": [
+    "IronGolemMixin",
+    "TieredItemMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
