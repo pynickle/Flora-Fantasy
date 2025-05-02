@@ -21,8 +21,8 @@ public class FFFoods {
                 .effect(new MobEffectInstance(MobEffects.NIGHT_VISION, 600, 0), 1.0F)
                 .build();
         SALTSPUD = (new FoodProperties.Builder())
-                .nutrition(1)
-                .saturationModifier(0.1F)
+                .nutrition(2)
+                .saturationModifier(0.4F)
                 .effect(new MobEffectInstance(MobEffects.FIRE_RESISTANCE, 200, 0), 1.0F)
                 .build();
     }

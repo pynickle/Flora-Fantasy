@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "flora_fantasy:durability_shapeless",
   "category": "misc",
   "ingredients": [
     {
@@ -11,6 +11,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "flora_fantasy:salt_crystal",
+    "id": "flora_fantasy:salt_crystal"
   }
 }

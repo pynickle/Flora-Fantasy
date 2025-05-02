@@ -29,5 +29,60 @@
   "item.minecraft.lingering_potion.effect.long_ironfern": "Lingering Potion of Ironfern",
   "item.minecraft.lingering_potion.effect.strong_ironfern": "Lingering Potion of Ironfern",
 
-  "tooltip.flora_fantasy.abyssal_erosion_pickaxe": "Erosion Energy: %s"
+  "tooltip.flora_fantasy.abyssal_erosion_pickaxe": "Erosion Energy: %s%%",
+
+  "book.flora_fantasy.flora_arcana.name": "Flora Arcana",
+  "book.flora_fantasy.flora_arcana.tooltip": "Records of Fantasy Plants of the World",
+
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.name": "Lumin Berry Bush",
+
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.lumin_berry_bush.name": "Lumin Berry Bush",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.lumin_berry_bush.lumin_berry_bush.name": "Lumin Berry Bush",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.lumin_berry_bush.lumin_berry_bush.text": "Lumin Berry Bushes naturally spawn on deepslate, it has two growth stages and emits a light with a brightness of 7 when ripe, break or right-click to collect to get 1-2 lumin berries. The brightness level of the last cell of the fluorescent berry is less than or equal to 10 in order to grow.",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.lumin_berry_bush.spotlight.text": "Obtain lumin berries by gathering lumin berry bushes, directly eating lumin berries restores 2 hunger and 0.1 hunger saturation, and gains a 3s glowing effect.",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.lumin_berry_bush.spotlight.title": "Lumin Berries",
+
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.night_vision_cookie.name": "Night Vision Cookie",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.night_vision_cookie.recipe.text": "Night Vision Cookie restores you 2 hunger and 0.4 hunger saturation, and it also gives you 30s of night vision.",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.night_vision_cookie.recipe.title": "Night Vision Cookie",
+
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.nethermend_sludge_bottle.name": "Nethermend Sludge Bottle",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.nethermend_sludge_bottle.recipe.text": "The Nethermend Sludge Bottle will slowly repair the durability of tools (tools with tag #flora_fantasy:nethermend_sludge_tools).\n\\\n\\\nHold the bottle in your offhand, tools in your main hand and long press to use it, the bottle will become empty and the tools will slowly repair their durability by 15 points every 3s for a total of 600 durability points.",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.nethermend_sludge_bottle.recipe.title": "Nethermend Sludge Bottle",
+
+  "book.flora_fantasy.flora_arcana.ironbane_fern.name": "Ironbane Fern",
+
+  "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.name": "Ironbane Fern",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.spotlight1.text": "You can find the ironbane fern on the deepslate iron ore below the ground, usually it will spawn along with the raw iron block, and after a certain amount of time, the ironbane fern will change the deepslate iron ore below into deepslate and grow into the ironbane frond fern.",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.spotlight1.title": "Ironbane Fern",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.spotlight2.text": "You can use shears to right click ironbane fern to get 1-2 ironbane fronds.\n\\\n\\\nThe iron golem will actively move away from the ironbane fern and ironbane frond fern.",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.spotlight2.title": "Ironbane Frond Fern",
+
+  "book.flora_fantasy.flora_arcana.ironbane_fern.potion_of_ironfern.name": "Potion of Ironfern",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.potion_of_ironfern.spotlight.text": "Potion of Ironfern is brewed from ironbane frond and provides a 40s resistance 2 and speed 1, which can be obtained in extended and enhanced versions via redstone and glowstone dust.",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.potion_of_ironfern.spotlight.title": "Potion of Ironfern",
+
+  "book.flora_fantasy.flora_arcana.ironbane_fern.abyssal_erosion_pickaxe.name": "Abyssal Erosion Pickaxe",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.abyssal_erosion_pickaxe.recipe.text": "The Abyssal Erosion Pickaxe is diamond tier, it has erosion energy, when you mine iron ore, it will randomly increase 4-7 points of erosion energy, mining other block mineable for pickaxe will randomly increase 0-1 points of erosion energy.\n\\\n\\\nWhen the erosion energy is full of 100%%, the pickaxe will emit dragon's breath particles and restore 50 points of durability.",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.abyssal_erosion_pickaxe.recipe.title": "Abyssal Erosion Pickaxe",
+
+  "book.flora_fantasy.flora_arcana.saltspud.name": "Saltspud",
+
+  "book.flora_fantasy.flora_arcana.saltspud.saltspud.name": "Saltspud",
+  "book.flora_fantasy.flora_arcana.saltspud.saltspud.saltspud.name": "Saltspud",
+  "book.flora_fantasy.flora_arcana.saltspud.saltspud.saltspud.text": "The saltspud occurs naturally on the sand of desert biome and, similar to the potato, has 8 growth stages. Destroying it at maturity drops the saltspud.",
+  "book.flora_fantasy.flora_arcana.saltspud.saltspud.spotlight.text": "Consuming Saltspud restores 1 hunger and 0.4 hunger saturation, and gains 10s of fire resistance.",
+  "book.flora_fantasy.flora_arcana.saltspud.saltspud.spotlight.title": "Saltspud",
+
+  "book.flora_fantasy.flora_arcana.saltspud.blaze_iron_knife.name": "Blaze Iron Knife",
+  "book.flora_fantasy.flora_arcana.saltspud.blaze_iron_knife.recipe.text": "The Blaze Iron Knife is used to obtain salt crystals from the saltspud.",
+  "book.flora_fantasy.flora_arcana.saltspud.blaze_iron_knife.recipe.title": "Blaze Iron Knife",
+
+  "book.flora_fantasy.flora_arcana.saltspud.salt_crystal.name": "Salt Crystal",
+  "book.flora_fantasy.flora_arcana.saltspud.salt_crystal.recipe.text": "Salt Crystals can be used to craft salt crystal lamps.",
+  "book.flora_fantasy.flora_arcana.saltspud.salt_crystal.recipe.title": "Salt Crystal",
+
+  "book.flora_fantasy.flora_arcana.saltspud.salt_crystal_lamp.name": "Salt Crystal Lamp",
+  "book.flora_fantasy.flora_arcana.saltspud.salt_crystal_lamp.recipe.text": "A decoration that lights up when it receives a redstone signal, emitting a light with a brightness of 15.",
+  "book.flora_fantasy.flora_arcana.saltspud.salt_crystal_lamp.recipe.title": "Salt Crystal Lamp"
 }

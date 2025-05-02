@@ -43,6 +43,13 @@ subprojects {
                 includeGroup "curse.maven"
             }
         }
+        maven {
+            // Modonomicon
+            url "https://dl.cloudsmith.io/public/klikli-dev/mods/maven/"
+            content {
+                includeGroup "com.klikli_dev"
+            }
+        }
     }
 
     dependencies {

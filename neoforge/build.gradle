@@ -58,7 +58,9 @@ dependencies {
     modCompileOnlyApi("mezz.jei:jei-${minecraft_version}-neoforge-api:${jei_version}")
     modRuntimeOnly("mezz.jei:jei-${minecraft_version}-neoforge:${jei_version}")
 
-    // modRuntimeOnly("curse.maven:sodium-394468:6382651")
+    implementation ("com.klikli_dev:modonomicon-${minecraft_version}-neoforge:${modonomicon_version}"){transitive=false}
+
+    runtimeOnly("curse.maven:sodium-394468:6382651")
 
     common(project(path: ':common', configuration: 'namedElements')) { transitive false }
     shadowBundle project(path: ':common', configuration: 'transformProductionNeoForge')

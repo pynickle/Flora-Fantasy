@@ -1,0 +1,41 @@
+{
+  "type": "modonomicon:dense",
+  "pattern": [
+    [
+      "A B",
+      " 0 ",
+      "C D"
+    ],
+    [
+      "NNN",
+      "NNN",
+      "NNN"
+    ]
+  ],
+  "mapping": {
+    "N": {
+      "type": "modonomicon:block",
+      "block": "minecraft:sand"
+    },
+    "0":  {
+      "type": "modonomicon:block",
+      "block": "minecraft:air"
+    },
+    "A": {
+      "type": "modonomicon:blockstate",
+      "block": "flora_fantasy:saltspud[age=0]"
+    },
+    "B": {
+      "type": "modonomicon:blockstate",
+      "block": "flora_fantasy:saltspud[age=2]"
+    },
+    "C": {
+      "type": "modonomicon:blockstate",
+      "block": "flora_fantasy:saltspud[age=4]"
+    },
+    "D": {
+      "type": "modonomicon:blockstate",
+      "block": "flora_fantasy:saltspud[age=7]"
+    }
+  }
+}

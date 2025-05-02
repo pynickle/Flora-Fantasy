@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "tag": "minecraft:flowers"
+    }
+  ],
+  "result": {
+    "id": "modonomicon:modonomicon",
+    "components": {
+      "modonomicon:book_id": "flora_fantasy:flora_arcana"
+    }
+  }
+}

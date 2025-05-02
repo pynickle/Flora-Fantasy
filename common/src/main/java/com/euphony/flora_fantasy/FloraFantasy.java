@@ -9,6 +9,7 @@ public final class FloraFantasy {
 
     public static void init() {
         FFDataComponents.DATA_COMPONENT_TYPES.register();
+        FFRecipeSerializers.RECIPE_SERIALIZERS.register();
 
         FFBlocks.BLOCKS.register();
         FFItems.ITEMS.register();

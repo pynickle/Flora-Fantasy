@@ -24,7 +24,7 @@ public abstract class IronGolemMixin extends AbstractGolem implements NeutralMob
     protected void registerGoals(CallbackInfo ci) {
         this.goalSelector.addGoal(2, new AvoidBlockGoal<>(this, 8, 0.6, 1.0, (pos) -> {
             BlockState state = this.level().getBlockState(pos);
-            return state.is(FFBlocks.IRONBANE_FERN.get());
+            return state.is(FFBlocks.IRONBANE_FERN.get()) || state.is(FFBlocks.IRONBANE_FROND_FERN.get());
         }));
     }
 }

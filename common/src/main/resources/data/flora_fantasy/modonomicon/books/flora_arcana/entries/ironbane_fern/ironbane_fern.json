@@ -1,0 +1,32 @@
+{
+  "background_u_index": 0,
+  "background_v_index": 1,
+  "category": "ironbane_fern",
+  "icon": {
+    "item": "flora_fantasy:ironbane_fern"
+  },
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "",
+      "item": {
+        "item": "flora_fantasy:ironbane_fern"
+      },
+      "text": "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.spotlight1.text",
+      "title": "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.spotlight1.title"
+    },
+    {
+      "type": "modonomicon:spotlight",
+      "anchor": "",
+      "item": {
+        "item": "flora_fantasy:ironbane_frond_fern"
+      },
+      "text": "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.spotlight2.text",
+      "title": "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.spotlight2.title"
+    }
+  ],
+  "name": "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.name",
+  "sort_number": 0,
+  "x": 0,
+  "y": 0
+}

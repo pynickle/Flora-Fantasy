@@ -1,0 +1,25 @@
+{
+  "type": "modonomicon:dense",
+  "pattern": [
+    [
+      "   ",
+      " 0 ",
+      "   "
+    ],
+    [
+      "NNN",
+      "NNN",
+      "NNN"
+    ]
+  ],
+  "mapping": {
+    "N": {
+      "type": "modonomicon:block",
+      "block": "minecraft:deepslate"
+    },
+    "0":  {
+      "type": "modonomicon:blockstate",
+      "block": "flora_fantasy:lumin_berry_bush[age=1]"
+    }
+  }
+}

@@ -11,7 +11,7 @@ authors = "ENC_Euphony"
 description = '''
 Look for more fantasy plants in the world!
 '''
-#logoFile = ""
+logoFile = "icon.png"
 
 [[dependencies.flora_fantasy]]
 modId = "neoforge"
@@ -23,14 +23,21 @@ side = "BOTH"
 [[dependencies.flora_fantasy]]
 modId = "minecraft"
 type = "required"
-versionRange = "[1.21.1,)"
+versionRange = "[1.21,1.21.2)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.flora_fantasy]]
 modId = "architectury"
 type = "required"
-versionRange = "[13.0.8,)"
+versionRange = "[13.0.6)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.flora_fantasy]]
+modId = "modonomicon"
+type = "required"
+versionRange = "[1.104,)"
 ordering = "AFTER"
 side = "BOTH"
 

@@ -13,7 +13,7 @@
 
   "block.flora_fantasy.ironbane_fern": "噬铁蕨",
   "block.flora_fantasy.ironbane_frond_fern": "噬铁叶蕨",
-  "block.flora_fantasy.lumin_berry_bush": "荧光莓",
+  "block.flora_fantasy.lumin_berry_bush": "荧光莓灌木",
   "block.flora_fantasy.saltspud": "盐晶薯",
   "block.flora_fantasy.salt_crystal_lamp": "盐晶灯",
 
@@ -29,5 +29,60 @@
   "item.minecraft.lingering_potion.effect.long_ironfern": "滞留型铁蕨药水",
   "item.minecraft.lingering_potion.effect.strong_ironfern": "滞留型铁蕨药水",
 
-  "tooltip.flora_fantasy.abyssal_erosion_pickaxe": "侵蚀能量：%s"
+  "tooltip.flora_fantasy.abyssal_erosion_pickaxe": "侵蚀能量：%s%%",
+
+  "book.flora_fantasy.flora_arcana.name": "幻植秘典",
+  "book.flora_fantasy.flora_arcana.tooltip": "世界奇幻植物记录",
+
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.name": "荧光莓灌木",
+
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.lumin_berry_bush.name": "荧光莓灌木",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.lumin_berry_bush.lumin_berry_bush.name": "荧光莓灌木",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.lumin_berry_bush.lumin_berry_bush.text": "荧光莓灌木自然生成在深板岩层，它有两个生长阶段，成熟后会发出亮度为7的光，破坏或右键采集可以获得1-2个荧光莓。荧光莓上一格亮度等级小于等于 10 才能生长。",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.lumin_berry_bush.spotlight.text": "通过采集荧光莓灌木获得荧光莓，直接食用荧光莓会恢复一格饱食度和 0.1 饱和度，并获得 3s 的发光效果。",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.lumin_berry_bush.spotlight.title": "荧光莓",
+
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.night_vision_cookie.name": "夜视曲奇",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.night_vision_cookie.recipe.text": "夜视曲奇可以让你获得一格饱食度和 0.4 饱和度，并获得 30s 的夜视效果。",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.night_vision_cookie.recipe.title": "夜视曲奇",
+
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.nethermend_sludge_bottle.name": "凝岩乳瓶",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.nethermend_sludge_bottle.recipe.text": "凝岩乳瓶能够缓慢修复工具 (带有标签 #flora_fantasy:nethermend_sludge_tools 的工具) 的耐久。\n\\\n\\\n副手持凝岩乳瓶，主手持工具，长按即可使用，凝岩乳瓶会变为空瓶，工具会缓慢修复耐久，每 3s 修复 15 点耐久，共计修复 600 点耐久。",
+  "book.flora_fantasy.flora_arcana.lumin_berry_bush.nethermend_sludge_bottle.recipe.title": "凝岩乳瓶",
+
+  "book.flora_fantasy.flora_arcana.ironbane_fern.name": "噬铁蕨",
+
+  "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.name": "噬铁蕨",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.spotlight1.text": "你可以在地底的深板岩铁矿上找到噬铁蕨，通常他会伴随粗铁块一起生成，经过一定时间，噬铁蕨会将下方的深板岩铁矿变为深板岩并成长为噬铁叶蕨。",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.spotlight1.title": "噬铁蕨",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.spotlight2.text": "你可以使用剪刀右键噬铁叶蕨以获得 1-2 个铁噬叶。\n\\\n\\\n铁傀儡会主动远离噬铁蕨和噬铁叶蕨。",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.ironbane_fern.spotlight2.title": "噬铁叶蕨",
+
+  "book.flora_fantasy.flora_arcana.ironbane_fern.potion_of_ironfern.name": "铁蕨药水",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.potion_of_ironfern.spotlight.text": "铁蕨药水由铁噬叶酿造而成，提供 40s 的抗性提升 2 和迅捷效果，可以通过红石和萤石得到延长版和加强版。",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.potion_of_ironfern.spotlight.title": "铁蕨药水",
+
+  "book.flora_fantasy.flora_arcana.ironbane_fern.abyssal_erosion_pickaxe.name": "蚀界镐",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.abyssal_erosion_pickaxe.recipe.text": "蚀界镐为钻石镐等级，它有侵蚀能量，当你挖掘铁矿时，会随机增加 4-7 点侵蚀能量，挖掘其它合适挖掘工具为镐子的方块会随机增加 0-1 点侵蚀能量。\n\\\n\\\n当侵蚀能量满 100%% 时，镐子会散发出龙息粒子并恢复 50 点耐久。",
+  "book.flora_fantasy.flora_arcana.ironbane_fern.abyssal_erosion_pickaxe.recipe.title": "蚀界镐",
+
+  "book.flora_fantasy.flora_arcana.saltspud.name": "盐晶薯",
+
+  "book.flora_fantasy.flora_arcana.saltspud.saltspud.name": "盐晶薯",
+  "book.flora_fantasy.flora_arcana.saltspud.saltspud.saltspud.name": "盐晶薯",
+  "book.flora_fantasy.flora_arcana.saltspud.saltspud.saltspud.text": "盐晶薯自然生成在沙漠群系的沙子上，与马铃薯类似，它有 8 个生长阶段。成熟后破坏它会获得盐晶薯。",
+  "book.flora_fantasy.flora_arcana.saltspud.saltspud.spotlight.text": "食用盐晶薯可以恢复一格饱食度和 0.4 饱和度，并获得 10s 的抗火效果。",
+  "book.flora_fantasy.flora_arcana.saltspud.saltspud.spotlight.title": "盐晶薯",
+
+  "book.flora_fantasy.flora_arcana.saltspud.blaze_iron_knife.name": "烈焰铁小刀",
+  "book.flora_fantasy.flora_arcana.saltspud.blaze_iron_knife.recipe.text": "烈焰铁小刀用于从盐晶薯上获取盐晶。",
+  "book.flora_fantasy.flora_arcana.saltspud.blaze_iron_knife.recipe.title": "烈焰铁小刀",
+
+  "book.flora_fantasy.flora_arcana.saltspud.salt_crystal.name": "盐晶",
+  "book.flora_fantasy.flora_arcana.saltspud.salt_crystal.recipe.text": "盐晶可以用于合成盐晶灯。",
+  "book.flora_fantasy.flora_arcana.saltspud.salt_crystal.recipe.title": "盐晶",
+
+  "book.flora_fantasy.flora_arcana.saltspud.salt_crystal_lamp.name": "盐晶灯",
+  "book.flora_fantasy.flora_arcana.saltspud.salt_crystal_lamp.recipe.text": "一种装饰品，接收到红石信号时亮起，发出亮度为 15 的光。",
+  "book.flora_fantasy.flora_arcana.saltspud.salt_crystal_lamp.recipe.title": "盐晶灯"
 }

@@ -28,7 +28,7 @@ public class AbyssalErosionPickaxeItem extends PickaxeItem {
         boolean res = super.mineBlock(itemStack, level, blockState, blockPos, livingEntity);
         if(blockState.is(BlockTags.IRON_ORES)) {
             itemStack.set(FFDataComponents.EROSION_ENERGY.get(), itemStack.getOrDefault(FFDataComponents.EROSION_ENERGY.get(), 0) + level.random.nextInt(4) + 4);
-        } else {
+        } else if(blockState.is(BlockTags.MINEABLE_WITH_PICKAXE)) {
             itemStack.set(FFDataComponents.EROSION_ENERGY.get(), itemStack.getOrDefault(FFDataComponents.EROSION_ENERGY.get(), 0) + level.random.nextInt(2));
         }
         return res;
@@ -53,6 +53,6 @@ public class AbyssalErosionPickaxeItem extends PickaxeItem {
 
     @Override
     public void appendHoverText(ItemStack itemStack, TooltipContext tooltipContext, List<Component> list, TooltipFlag tooltipFlag) {
-        list.add(ItemUtils.createTooltip("tooltip.flora_fantasy.abyssal_erosion_pickaxe", itemStack.getOrDefault(FFDataComponents.EROSION_ENERGY.get(), 0)).append("%"));
+        list.add(ItemUtils.createTooltip("tooltip.flora_fantasy.abyssal_erosion_pickaxe", itemStack.getOrDefault(FFDataComponents.EROSION_ENERGY.get(), 0)));
     }
 }
