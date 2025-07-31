@@ -1,10 +1,7 @@
 package com.euphony.flora_fantasy.common.init;
 
 import com.euphony.flora_fantasy.FloraFantasy;
-import com.euphony.flora_fantasy.common.block.IronbaneFernBlock;
-import com.euphony.flora_fantasy.common.block.IronbaneFrondFernBlock;
-import com.euphony.flora_fantasy.common.block.LuminBerryBushBlock;
-import com.euphony.flora_fantasy.common.block.SaltspudBlock;
+import com.euphony.flora_fantasy.common.block.*;
 import dev.architectury.registry.registries.DeferredRegister;
 import dev.architectury.registry.registries.RegistrySupplier;
 import net.minecraft.core.registries.Registries;
@@ -37,4 +34,7 @@ public class FFBlocks {
 
     public static final RegistrySupplier<RedstoneLampBlock> SALT_CRYSTAL_LAMP = BLOCKS.register("salt_crystal_lamp",
             () -> new RedstoneLampBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.REDSTONE_LAMP)));
+
+    public static final RegistrySupplier<SnapBeanBlock> SNAP_BEAN = BLOCKS.register("snap_bean",
+            () -> new SnapBeanBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.BEETROOTS)));
 }

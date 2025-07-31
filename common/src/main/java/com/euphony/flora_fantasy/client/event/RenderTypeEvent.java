@@ -9,6 +9,6 @@ public class RenderTypeEvent {
     public static void registerRenderType(Minecraft minecraft) {
         RenderTypeRegistry.register(RenderType.cutout(), FFBlocks.LUMIN_BERRY_BUSH.get(),
                 FFBlocks.IRONBANE_FERN.get(), FFBlocks.IRONBANE_FROND_FERN.get(),
-                FFBlocks.SALTSPUD.get());
+                FFBlocks.SALTSPUD.get(), FFBlocks.SNAP_BEAN.get());
     }
 }
